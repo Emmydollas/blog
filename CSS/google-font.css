@@ -1,0 +1,31 @@
+/* font family abereto */
+@font-face{
+    font-family: Aboreto;
+    src: url(../fontssss/Aboreto/Aboreto-Regular.ttf);
+
+}
+
+/* font family dancingscript */
+@font-face{
+    font-family: Dancingscript;
+    src: url(../fontssss/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+
+}
+
+/* font family abel */
+@font-face{
+    font-family: abel;
+    src: url(../fontssss/fontsssssssssssssssssssssssss/Abel/Abel-Regular.ttf);
+}
+
+/* font-familty aton */
+@font-face{
+    font-family: anton;
+    src: url(../fontssss/fontsssssssssssssssssssssssss/Anton/Anton-Regular.ttf);
+}
+
+/* font-family */
+@font-face{
+    font-family: allan;
+    src: url(../fontssss/fontsssssssssssssssssssssssss/Allan/Allan-Regular.ttf);
+}
